@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#e67e22</color>
+    <color name="colorPrimaryDark">#d35400</color>
+    <color name="colorAccent">#fff</color>
+
+    <color name="colorPrimary_">#071C24</color>
+    <color name="colorPrimaryDark_">#06151b</color>
+    <color name="colorAccent_">#00D474</color>
+    <color name="primary_500">#3F51B5</color>
+    <!--Indigo 700-->
+    <color name="primary_700">#303F9F</color>
+    <color name="gen_black">#000000</color>
+    <color name="gen_white">#FFFFFF</color>
+    <color name="black_trans80">#33000000</color>
+    <color name="scarletRed">#e91e02</color>
+    <color name="titleTextColor">#D9141627</color>
+    <color name="darkTransparentBlack">#ca000000</color>
+    <color name="darkerGrey">#787878</color>
+    <color name="colorLightGray">#D3D3D3</color>
+    <!-- Screens background color-->
+    <color name="bg_screen1">#3498db</color>
+    <color name="bg_screen2">#e74c3c</color>
+    <color name="bg_screen3">#9b59b6</color>
+    <color name="bg_screen4">#1abc9c</color>
+
+    <!-- dots inactive colors -->
+    <color name="dot_dark_screen1">#2980b9</color>
+    <color name="dot_dark_screen2">#c0392b</color>
+    <color name="dot_dark_screen3">#8e44ad</color>
+    <color name="dot_dark_screen4">#27ae60</color>
+
+    <!-- dots active colors -->
+    <color name="dot_light_screen1">#6a89cc</color>
+    <color name="dot_light_screen2">#e55039</color>
+    <color name="dot_light_screen3">#82ccdd</color>
+    <color name="dot_light_screen4">#38ada9</color>
+    <color name="lightgreen">#00ff00</color>
+    <color name="SemiTransparentWhite">#b9ffffff</color>
+    <color name="transparentWhite">#00ffffff</color>
+</resources>

@@ -1,0 +1,37 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="container_margin">8dp</dimen>
+
+
+    <!--padding-->
+    <dimen name="box_padding_normal">16dp</dimen>
+    <dimen name="box_padding_small">8dp</dimen>
+    <dimen name="box_padding_x_small">4dp</dimen>
+    <dimen name="box_padding_xx_small">2dp</dimen>
+    <dimen name="box_padding_big">22dp</dimen>
+
+    <!--margin-->
+    <dimen name="box_margin_normal">16dp</dimen>
+    <dimen name="box_margin_small">8dp</dimen>
+    <dimen name="box_margin_x_small">4dp</dimen>
+    <dimen name="box_margin_xx_small">2dp</dimen>
+    <dimen name="box_margin_big">22dp</dimen>
+    <dimen name="box_margin_x_big">32dp</dimen>
+    <dimen name="box_margin_xx_big">52dp</dimen>
+
+    <dimen name="sl_toolbar_size">56dp</dimen>
+
+    <dimen name="card_album_radius">0dp</dimen>
+    <dimen name="view_width_small">1dp</dimen>
+    <dimen name="radio_button_text_size">16sp</dimen>
+    <dimen name="dots_height">30dp</dimen>
+    <dimen name="dots_margin_bottom">20dp</dimen>
+
+    <dimen name="slide_title">30dp</dimen>
+    <dimen name="slide_desc">16dp</dimen>
+    <dimen name="desc_padding">40dp</dimen>
+
+</resources>
